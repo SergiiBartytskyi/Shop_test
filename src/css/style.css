@@ -1,0 +1,29 @@
+ul {
+    list-style: none;
+}
+
+.js-nav {
+    display: flex;
+
+    gap: 5px;
+    list-style: none;
+
+}
+
+.js-nav a {
+    display: inline-block;
+    text-align: center;
+    width: 80px;
+    border-radius: 4px;
+    border: 1px solid gray;
+}
+
+.js-search {
+    margin-left: 40px;
+    width: 250px;
+}
+
+.js-modal {
+    width: 600px;
+    background-color: #fff;
+}
