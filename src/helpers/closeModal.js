@@ -3,4 +3,5 @@ function closeModal(e) {
     this.close();
   }
 }
+
 export { closeModal };
