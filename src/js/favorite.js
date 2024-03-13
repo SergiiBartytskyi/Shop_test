@@ -1,4 +1,4 @@
-import { common } from '../common';
+import { common } from '../helpers/common';
 import { createMarkupFavorite } from '../helpers/createMarkup';
 import { createModal } from '../helpers/createModal';
 import { findProduct } from '../helpers/findProduct';
